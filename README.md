@@ -1,2 +1,2 @@
 # thecraftkid.github.io
-A more 
+A more developer-centric presentation of my projects.
