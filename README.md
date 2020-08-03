@@ -1,2 +1,4 @@
-# thecraftkid.github.io
-A more developer-centric presentation of my projects.
+# WillieCubed Project Docs
+Documentation for my personal projects.
+
+***Coming soon!***
